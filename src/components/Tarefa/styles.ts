@@ -65,7 +65,7 @@ export const Descricao = styled.textarea`
   border: none;
   bacground-color: transparent;
 `
-
+//adicionando um comentário só para atualizar o commit
 export const BarraAcoes = styled.div`
   border-top: 1px solid rgba(0, 0, 0, 0.1);
   padding-top: 16px;
